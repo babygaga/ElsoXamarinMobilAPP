@@ -1,0 +1,7 @@
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\bin\Debug\netstandard2.0\ElsoXamarinMobilApp.deps.json
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\bin\Debug\netstandard2.0\ElsoXamarinMobilApp.dll
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\obj\Debug\netstandard2.0\ElsoXamarinMobilApp.csprojAssemblyReference.cache
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\obj\Debug\netstandard2.0\ElsoXamarinMobilApp.AssemblyInfoInputs.cache
+C:\Users\dezmo\source\repos\ElsoXamarinMobilAPP\ElsoXamarinMobilApp\ElsoXamarinMobilApp\ElsoXamarinMobilApp\obj\Debug\netstandard2.0\ElsoXamarinMobilApp.AssemblyInfo.cs
